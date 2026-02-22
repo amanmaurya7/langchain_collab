@@ -28,4 +28,6 @@ Thumbs.db
 ```ignore
 # ChromaDB
 chromadb1/
+chromadb/
+
 ```
